@@ -1,0 +1,24 @@
+{
+  "name": "qulinary-bower-segmentio",
+  "version": "0.0.2",
+  "homepage": "https://github.com/QulinaryOrg/bower-segmentio",
+  "authors": [
+    "Matthew J Martin. <matthew@qulinary.com>"
+  ],
+  "description": "Bower wrapper for segmentio",
+  "main": [
+    "src/stripe.js"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "segmentio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
